@@ -1,5 +1,5 @@
 {
-  "name": "mein-mcp-server",
+  "name": "agenten-team",
   "version": "1.0.0",
   "type": "module",
   "main": "server.js",
@@ -7,7 +7,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.0.4",
-    "zod": "^3.23.8"
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "zod": "^3.24.0"
   }
 }
