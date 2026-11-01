@@ -13,7 +13,7 @@ server.tool(
   { name: z.string() },
   async ({ name }) => {
     return {
-      content: [{ type: "text", text: `Hallo ${name}!` }],
+      content: ,
     };
   }
 );
